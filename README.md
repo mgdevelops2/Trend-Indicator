@@ -30,11 +30,9 @@ The idea is to use VWAP as a long-term AVG , and use the EMAs as your intra-day 
   ```
 
   ## howTo Use
-  ```
-  Because this is commissioned work, I will need to add you as a user. 
-  
+  ```  
   1. Create a TradingView.com Account. 
-  2. Send me a message to add you to the user list including your tradingview username. 
+  2. Send me a message to add you to the user list (for trial run) including your tradingview username. 
   3. Wait for a reply, with confirmation of addition to the list. 
   
   ```
