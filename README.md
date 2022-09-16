@@ -3,7 +3,7 @@
   
   ## Description
   
-This is a trading indicator built for the trading view platform, using PineScript - which is a language built by trading view based on python.
+This is a trading indicator built to work on the trading view platform, usging Python which was refactored into PineScript - which is a language built by trading view based on python.
 
 The project is simple, we are looking to increase the odds of us catching the trend with the use of a momentum "indicator". 
 This momentum indicator, can be used with multiple asset classes. 
